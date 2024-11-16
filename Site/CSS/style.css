@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+body{
+    font-family: comfortaa;
+    background-color: #0d56bb;
+    padding: 0;
+    margin: 0;
+}
