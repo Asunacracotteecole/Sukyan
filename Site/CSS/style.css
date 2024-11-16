@@ -1,8 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
-body{
+body {
     font-family: comfortaa;
     background-color: #0d56bb;
     padding: 0;
     margin: 0;
+    color: white;
 }
+
+body .page {
+    margin: 20px 80px;
+}
+/* Barre de navigation */
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: #0d56bb;
+    padding: 10px 0px;
+}
+nav .onglets{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+nav .onglets a{
+    margin-right: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+nav .buttons button{
+    padding: 13px 20px;
+    color: white;
+    border: none;
+    background-color: aqua;
+    font-size: 15px;
+}
+/* Fin de la barre de navigation */
