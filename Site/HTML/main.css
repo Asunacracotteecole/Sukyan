@@ -38,5 +38,7 @@ nav .buttons button{
     border: none;
     background-color: aqua;
     font-size: 15px;
+    cursor: pointer;
+    outline: none;
 }
 /* Fin de la barre de navigation */
