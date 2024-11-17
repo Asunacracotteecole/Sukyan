@@ -27,11 +27,11 @@ nav .buttons button{
     padding: 13px 20px;
     color: white;
     border: none;
-    font-size: 15px;
+    font-size: 20px;
     cursor: pointer;
     outline: none;
     font-family: comfortaa;
-    margin-top: 40px;
+    margin-top: 35px;
 }
 nav .buttons .download{
     background-color: blue;
@@ -75,5 +75,10 @@ div .download{
     outline: none;
     font-family: comfortaa;
     margin-top: 40px;
+}
+
+h1{
+    margin-left: 20px;
+    font-size: 50px;
 }
 /* Fin de la partie header */
