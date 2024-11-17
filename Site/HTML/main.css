@@ -36,9 +36,24 @@ nav .buttons button{
     padding: 13px 20px;
     color: white;
     border: none;
-    background-color: aqua;
     font-size: 15px;
     cursor: pointer;
     outline: none;
+    font-family: comfortaa;
+}
+nav .buttons .download{
+    background-color: blue;
+    margin-right: 10px;
+    color: white;
+}
+nav .buttons .aboutus{
+    background-color: inherit;
+    margin-right: 10px;
+    color: white;
+}
+nav .buttons .support{
+    background-color: inherit;
+    margin-right: 10px;
+    color: white;
 }
 /* Fin de la barre de navigation */
