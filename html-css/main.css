@@ -20,8 +20,11 @@ nav{
 }
 nav .logo{
     margin-top: -40px;
-    margin-left: 0px;
     margin-bottom: -50px;
+    margin-left: 10px;
+    background-color: inherit;
+    border: none;
+    outline: inherit;
 }
 nav .buttons button{
     padding: 13px 20px;
@@ -52,7 +55,7 @@ nav .buttons .support{
 
 /* Partie header */
 header{
-    background: url("Li chat retouch.png");
+    background: url("li-chat-retouch.png");
     background-position: center;
     background-size: 2048px 1132px;
     background-repeat: no-repeat;
@@ -82,3 +85,5 @@ h1{
     font-size: 50px;
 }
 /* Fin de la partie header */
+
+/* Partie information */
