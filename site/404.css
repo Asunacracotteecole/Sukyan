@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+h1{
+    font-family: comfortaa;
+    font-size: 30px;
+    position: center;
+    text-align: center;
+    margin-top: 50px;
+    color: lightslategrey;
+}
+h2{
+    font-family: comfortaa;
+    font-size: 50px;
+    position: center;
+    text-align: center;
+    margin-top: 250px;
+}
+div{
+    font-family: comfortaa;
+    font-size: 40px;
+    position: center;
+    text-align: center;
+    margin-top: 50px;
+    color: lightslategrey;
+}
+
+body{
+    background-color: #141414;
+    padding: 0;
+    margin: 0;
+    color: white
+}
