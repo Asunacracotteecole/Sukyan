@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
 body {
-    font-family: comfortaa;
+    font-family: 'Comfortaa';
     background-color: #141414;
     padding: 0;
     margin: 0;
@@ -33,7 +33,7 @@ nav .buttons button{
     font-size: 20px;
     cursor: pointer;
     outline: none;
-    font-family: comfortaa;
+    font-family: 'Comfortaa';
     margin-top: 35px;
 }
 nav .buttons .download{
@@ -57,13 +57,13 @@ nav .buttons .support{
 header{
     background: url("img/li-chat-retouch.png");
     background-position: center;
-    background-size: 2048px 1132px;
+    background-size: cover;
     background-repeat: no-repeat;
     margin-top: 0px;
 }
 header h1{
     text-align: center;
-    font-size: 0px;
+    font-size: 50px;
     padding: 500px;
 }
 div .download{
@@ -94,3 +94,30 @@ div{
 }
 
 /* Fin de la partie information */
+
+/* Partie footer */
+footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.footer{
+
+}
+.footer-content p {
+    margin: 5px 0;
+}
+
+.footer-content a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
+/* Fin de la partie footer */
