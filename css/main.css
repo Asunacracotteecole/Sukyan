@@ -55,7 +55,7 @@ nav .buttons .support{
 
 /* Partie header */
 header{
-    background: url("img/li-chat-retouch.png");
+    background: url("../img/li-chat-retouch.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
