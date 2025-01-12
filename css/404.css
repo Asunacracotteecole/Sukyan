@@ -32,8 +32,13 @@ footer{
     font-size: 20px;
     font-weight: normal;
 }
-.footer-content{
-    background-color: none;
-    font-size: 20px;
+
+:root {
+    --footer-font-size: 20px;
+}
+
+.footer {
+    background: transparent;
+    font-size: var(--footer-font-size, 20px);
     margin-top: 32%;
 }
